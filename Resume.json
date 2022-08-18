@@ -1,0 +1,52 @@
+{
+    "basic information": 
+        {
+        "name": "SARANYA A",
+        "email": "saranyaayyamuthu96@gmail.com",
+        "phone number": 9600559993,
+        "degree": "B.E"
+        },
+    
+    "location": 
+    
+        {
+        "address": "4/466E, ganga nagar, nammakkal",
+        "pincode": 637002,
+        "city": "Namakkal",
+        "state": "Tamilnadu",
+        "country": "India"
+        },
+    
+    
+    "personal details": 
+        {
+        "father's name": "Ayyamuthu S",
+        "mother's name": "Dhanalakshmi A",
+        "Date of birth": "25/10/1996",
+        "Nationality": "Indian",
+        "Blood group": "O+ve",
+        "interest": "internet surfing, cooking"
+        },
+    
+    "languages known": 
+        {
+        "Languages": "Tamil,English"
+    },
+    "education": 
+        {
+        "institution": "M.Kumarasamy college of engineering",
+        "department": "Electronics and instrumentation engineering",
+        "batch": "2014-2018",
+        "Percentage": 84
+    },
+    
+    "project":
+        {
+        "title": "Automatic monitoring of multiple air pollutants emitted from paper industries"
+    }
+    
+    
+    }
+    
+    
+    

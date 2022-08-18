@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var person= [{
+        "name":"john" ,
+        "age": 20,
+        "gender" :"male",
+        "city":"japan"
+    }];
+
+ //  FOR LOOP
+
+     for (let i=0; i<person.length;i++ ){
+       console.log (person);
+     }
+
+  // FOR IN LOOP
+
+    for (var key in person) {
+        console.log (person[key]);
+     }
+  // FOR OF LOOP
+
+    for (var value of person){
+        console.log(value);
+    }
+  // FOREACH LOOP
+     person.forEach (details => console.log (details));
+
+
+    </script>
+</body>
+</html>
